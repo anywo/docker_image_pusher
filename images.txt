@@ -1,6 +1,7 @@
 # mongo
-#libretranslate/libretranslate:latest-cuda
+# libretranslate/libretranslate:latest-cuda
 # pluja/whishper:latest-gpu
-yanwk/comfyui-boot:megapak
+# yanwk/comfyui-boot:megapak
+ollama/ollama:latest
 #支持指定架构
 --platform=linux/amd64
